@@ -1,5 +1,6 @@
 /*
- * $ Copyright Cypress Semiconductor $
+ * Copyright (c) 2018 Cypress Semiconductor
+ * SPDX-License-Identifier: Apache-2.0
  */
 
 #ifndef INCLUDED_WWD_INTERNAL_H

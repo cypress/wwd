@@ -1,5 +1,6 @@
 /*
- * $ Copyright Cypress Semiconductor $
+ * Copyright (c) 2018 Cypress Semiconductor
+ * SPDX-License-Identifier: Apache-2.0
  */
 #ifndef INCLUDED_SOC_4390_WWD_BUS_PROTOCOL_H
 #define INCLUDED_SOC_4390_WWD_BUS_PROTOCOL_H
