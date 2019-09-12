@@ -1,4 +1,5 @@
-The files in this repository are provided as-is to facilitate porting of 
-WWD (Wiced Wi-Fi Driver) to RTOSes that wish to support Cypress Wi-Fi
-chips.
+Please see
+https://www.cypress.com/products/modustoolbox-software-environment
+for details on how to download and install the supported network drivers.
+
 
